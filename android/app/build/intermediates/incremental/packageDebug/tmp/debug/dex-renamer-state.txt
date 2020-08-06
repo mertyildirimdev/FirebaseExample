@@ -1,0 +1,4 @@
+#Thu Aug 06 11:20:20 TRT 2020
+base.0=/Users/mertyildirim/Desktop/week-5-restaurant-app-mert-yildirim-ozlem-altun-master/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

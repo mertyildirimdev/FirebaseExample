@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "467637585014",
+    "firebase_url": "https://kod-one.firebaseio.com",
+    "project_id": "kod-one",
+    "storage_bucket": "kod-one.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467637585014:android:be0d95ede758d399c08b57",
+        "android_client_info": {
+          "package_name": "com.kod_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467637585014-3bgl0p5jh2vtnc1sfvkqaoqfa6eji8ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbhzyKGRBlhH21hgZDgkucJOmEjL87jqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467637585014-3bgl0p5jh2vtnc1sfvkqaoqfa6eji8ku.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "467637585014-3iub58kk2qm9k2vqnsaoqta8sv0e901g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.kod-one"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
